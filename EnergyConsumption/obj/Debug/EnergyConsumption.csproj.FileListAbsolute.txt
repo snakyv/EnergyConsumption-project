@@ -1,0 +1,26 @@
+C:\Users\v0303\OneDrive\Рабочий стол\Пробы и ошибки\EnergyConsumption\EnergyConsumption\bin\Debug\EnergyConsumption.exe.config
+C:\Users\v0303\OneDrive\Рабочий стол\Пробы и ошибки\EnergyConsumption\EnergyConsumption\bin\Debug\EnergyConsumption.exe
+C:\Users\v0303\OneDrive\Рабочий стол\Пробы и ошибки\EnergyConsumption\EnergyConsumption\bin\Debug\EnergyConsumption.pdb
+C:\Users\v0303\OneDrive\Рабочий стол\Пробы и ошибки\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.csproj.AssemblyReference.cache
+C:\Users\v0303\OneDrive\Рабочий стол\Пробы и ошибки\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.Properties.Resources.resources
+C:\Users\v0303\OneDrive\Рабочий стол\Пробы и ошибки\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.csproj.GenerateResource.cache
+C:\Users\v0303\OneDrive\Рабочий стол\Пробы и ошибки\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.csproj.CoreCompileInputs.cache
+C:\Users\v0303\OneDrive\Рабочий стол\Пробы и ошибки\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.exe
+C:\Users\v0303\OneDrive\Рабочий стол\Пробы и ошибки\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.pdb
+C:\Users\v0303\OneDrive\Рабочий стол\Пробы и ошибки\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.apartmentRegisterForm.resources
+C:\Users\v0303\OneDrive\Рабочий стол\Пробы и ошибки\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.apartmentSearchForm.resources
+C:\Users\v0303\OneDrive\Рабочий стол\Пробы и ошибки\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.exportForm.resources
+C:\Users\v0303\OneDrive\Рабочий стол\Пробы и ошибки\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.MainForm.resources
+C:\Users\v0303\OneDrive\Рабочий стол\Курсова_Робота_ОБД_Задорожний\EnergyConsumption\EnergyConsumption\bin\Debug\EnergyConsumption.exe.config
+C:\Users\v0303\OneDrive\Рабочий стол\Курсова_Робота_ОБД_Задорожний\EnergyConsumption\EnergyConsumption\bin\Debug\EnergyConsumption.exe
+C:\Users\v0303\OneDrive\Рабочий стол\Курсова_Робота_ОБД_Задорожний\EnergyConsumption\EnergyConsumption\bin\Debug\EnergyConsumption.pdb
+C:\Users\v0303\OneDrive\Рабочий стол\Курсова_Робота_ОБД_Задорожний\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.csproj.AssemblyReference.cache
+C:\Users\v0303\OneDrive\Рабочий стол\Курсова_Робота_ОБД_Задорожний\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.apartmentRegisterForm.resources
+C:\Users\v0303\OneDrive\Рабочий стол\Курсова_Робота_ОБД_Задорожний\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.apartmentSearchForm.resources
+C:\Users\v0303\OneDrive\Рабочий стол\Курсова_Робота_ОБД_Задорожний\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.exportForm.resources
+C:\Users\v0303\OneDrive\Рабочий стол\Курсова_Робота_ОБД_Задорожний\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.MainForm.resources
+C:\Users\v0303\OneDrive\Рабочий стол\Курсова_Робота_ОБД_Задорожний\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.Properties.Resources.resources
+C:\Users\v0303\OneDrive\Рабочий стол\Курсова_Робота_ОБД_Задорожний\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.csproj.GenerateResource.cache
+C:\Users\v0303\OneDrive\Рабочий стол\Курсова_Робота_ОБД_Задорожний\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.csproj.CoreCompileInputs.cache
+C:\Users\v0303\OneDrive\Рабочий стол\Курсова_Робота_ОБД_Задорожний\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.exe
+C:\Users\v0303\OneDrive\Рабочий стол\Курсова_Робота_ОБД_Задорожний\EnergyConsumption\EnergyConsumption\obj\Debug\EnergyConsumption.pdb

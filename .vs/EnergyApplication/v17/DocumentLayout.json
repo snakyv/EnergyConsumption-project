@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|c:\\users\\v0303\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\energyapplication\\energyapplication\\apartmentregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|solutionrelative:energyapplication\\apartmentregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\energyapplication\\apartmentsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|solutionrelative:energyapplication\\apartmentsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\energyapplication\\apartmentregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|solutionrelative:energyapplication\\apartmentregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\energyapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|solutionrelative:energyapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\energyapplication\\exportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|solutionrelative:energyapplication\\exportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\energyapplication\\apartmentsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|solutionrelative:energyapplication\\apartmentsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\energyapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDF8536-C465-4BA0-9054-9F75FE272C89}|EnergyApplication\\EnergyApplication.csproj|solutionrelative:energyapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "apartmentRegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\apartmentRegisterForm.cs",
+              "RelativeDocumentMoniker": "EnergyApplication\\apartmentRegisterForm.cs",
+              "ToolTip": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\apartmentRegisterForm.cs",
+              "RelativeToolTip": "EnergyApplication\\apartmentRegisterForm.cs",
+              "ViewState": "AgIAAFgCAAAAAAAAAADgv2UCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T23:26:30.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "apartmentRegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\apartmentRegisterForm.cs",
+              "RelativeDocumentMoniker": "EnergyApplication\\apartmentRegisterForm.cs",
+              "ToolTip": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\apartmentRegisterForm.cs [Design]",
+              "RelativeToolTip": "EnergyApplication\\apartmentRegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:51:36.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "apartmentSearchForm.cs",
+              "DocumentMoniker": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\apartmentSearchForm.cs",
+              "RelativeDocumentMoniker": "EnergyApplication\\apartmentSearchForm.cs",
+              "ToolTip": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\apartmentSearchForm.cs",
+              "RelativeToolTip": "EnergyApplication\\apartmentSearchForm.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAArwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:19:25.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "exportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\exportForm.cs",
+              "RelativeDocumentMoniker": "EnergyApplication\\exportForm.cs",
+              "ToolTip": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\exportForm.cs [Design]",
+              "RelativeToolTip": "EnergyApplication\\exportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:51:26.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "apartmentSearchForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\apartmentSearchForm.cs",
+              "RelativeDocumentMoniker": "EnergyApplication\\apartmentSearchForm.cs",
+              "ToolTip": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\apartmentSearchForm.cs [Design]",
+              "RelativeToolTip": "EnergyApplication\\apartmentSearchForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:28:25.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\MainForm.cs",
+              "RelativeDocumentMoniker": "EnergyApplication\\MainForm.cs",
+              "ToolTip": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\MainForm.cs",
+              "RelativeToolTip": "EnergyApplication\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:56:15.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\MainForm.cs",
+              "RelativeDocumentMoniker": "EnergyApplication\\MainForm.cs",
+              "ToolTip": "C:\\Users\\v0303\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\EnergyApplication\\EnergyApplication\\MainForm.cs [Design]",
+              "RelativeToolTip": "EnergyApplication\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:56:11.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
