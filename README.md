@@ -73,5 +73,5 @@ You can make a donation through [PayPal](https://www.paypal.me/your_account). An
 Thank you for your support!
 
 ## License
-- This project is licensed under the MIT License. See the LICENSE file for details.
+- This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
    Feel free to modify the content according to your project's specifics. If you need any further adjustments or additions, just let me know!
