@@ -36,7 +36,7 @@ To install the project, follow these steps:
 bash
 cd EnergyConsumption-project
 
-##Usage
+## Usage
 To run the application, execute the following command:
 
 bash
@@ -46,7 +46,7 @@ Make sure to have all necessary dependencies installed by running:
 bash
 npm install
 
-##Database Setup
+## Database Setup
 The project includes a SQL database for storing energy consumption data. To set up the database, follow these steps:
 
 Ensure you have a SQL server running.
@@ -60,5 +60,5 @@ Run the SQL script to create the necessary tables and insert initial data:
 sql
 SOURCE C:\Users\v0303\OneDrive\Документы\EnergyConsumption database.sql;
 
-##Contributing
+## Contributing
 We welcome contributions to the EnergyConsumption project! If you have any suggestions, bug reports, or want to contribute code, please open an issue or submit a pull request.
