@@ -10,7 +10,7 @@ This repository contains the source code for an application designed to monitor 
 - [Usage](#usage)
 - [Database Setup](#database-setup)
 - [Contributing](#contributing)
-- [Support the Project](#SupporttheProject)
+- [Support](#support)
 - [License](#license)
 
 ## Introduction
@@ -64,7 +64,7 @@ SOURCE C:\Users\v0303\OneDrive\Документы\EnergyConsumption database.sql
 ## Contributing
 We welcome contributions to the EnergyConsumption project! If you have any suggestions, bug reports, or want to contribute code, please open an issue or submit a pull request.
 
-## Support the Project
+## Support
 
 If you find this project useful and would like to support its development, consider making a donation. Your contributions will help improve and maintain the project, ensuring it remains up-to-date and beneficial for all users.
 
