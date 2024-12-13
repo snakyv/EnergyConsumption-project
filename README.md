@@ -10,7 +10,7 @@ This repository contains the source code for an application designed to monitor 
 - [Usage](#usage)
 - [Database Setup](#database-setup)
 - [Contributing](#contributing)
-- [Support the Project](#supporttheproject)
+- [Support the Project](#SupporttheProject)
 - [License](#license)
 
 ## Introduction
