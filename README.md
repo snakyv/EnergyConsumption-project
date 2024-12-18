@@ -34,18 +34,18 @@ To install the project, follow these steps:
    git clone https://github.com/snakyv/EnergyConsumption-project.git
 - Navigate to the project directory:
 
-bash
-cd EnergyConsumption-project
+   ```bash
+   cd EnergyConsumption-project
 
 ## Usage
 - To run the application, execute the following command:
 
-bash
-npm start
+   ```bash
+   npm start
 - Make sure to have all necessary dependencies installed by running:
 
-bash
-npm install
+   ```bash
+   npm install
 
 ## Database Setup
 The project includes a SQL database for storing energy consumption data. To set up the database, follow these steps:
@@ -54,7 +54,6 @@ The project includes a SQL database for storing energy consumption data. To set 
 
 - Import the database file located at:
 
-plaintext
 C:\Users\v0303\OneDrive\Документы\EnergyConsumption database.sql
 - Run the SQL script to create the necessary tables and insert initial data:
 
