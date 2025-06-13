@@ -7,7 +7,6 @@ This repository contains the source code for an application designed to monitor 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Database Setup](#database-setup)
 - [Contributing](#contributing)
 - [License](#license)
@@ -36,28 +35,14 @@ To install the project, follow these steps:
    ```bash
    cd EnergyConsumption-project
 
-## Usage
-- To run the application, execute the following command:
-
-   ```bash
-   npm start
-- Make sure to have all necessary dependencies installed by running:
-
-   ```bash
-   npm install
-
 ## Database Setup
 The project includes a SQL database for storing energy consumption data. To set up the database, follow these steps:
 
 - Ensure you have a SQL server running.
 
-- Import the database file located at:
+- Import the database file located at
 
-C:\Users\v0303\OneDrive\Документы\EnergyConsumption database.sql
-- Run the SQL script to create the necessary tables and insert initial data:
-
-sql
-SOURCE C:\Users\v0303\OneDrive\Документы\EnergyConsumption database.sql;
+- Run the SQL script to create the necessary tables and insert initial data
 
 ## Contributing
 We welcome contributions to the EnergyConsumption project! If you have any suggestions, bug reports, or want to contribute code, please open an issue or submit a pull request.
