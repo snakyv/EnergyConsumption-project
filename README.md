@@ -63,14 +63,6 @@ SOURCE C:\Users\v0303\OneDrive\Документы\EnergyConsumption database.sql
 ## Contributing
 We welcome contributions to the EnergyConsumption project! If you have any suggestions, bug reports, or want to contribute code, please open an issue or submit a pull request.
 
-## Support
-
-If you find this project useful and would like to support its development, consider making a donation. Your contributions will help improve and maintain the project, ensuring it remains up-to-date and beneficial for all users.
-
-You can make a donation through [PayPal](https://www.paypal.me/your_account). Any amount is greatly appreciated!
-
-Thank you for your support!
-
 ## License
 - This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
    Feel free to modify the content according to your project's specifics. If you need any further adjustments or additions, just let me know!
